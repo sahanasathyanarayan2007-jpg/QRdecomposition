@@ -62,7 +62,7 @@ print("",R)
 
 ## Output
 ```
-<img width="1248" height="770" alt="image" src="https://github.com/user-attachments/assets/c91ff870-9741-4eb4-bf79-886aec1ef9e1" />
+<img width="1248" height="770" alt="image" src="https://github.com/user-attachments/assets/4047caf1-8d16-4650-8cd4-7eb57628b9b7" />
 
 ```
 
