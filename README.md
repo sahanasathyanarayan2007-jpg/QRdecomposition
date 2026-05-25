@@ -61,10 +61,8 @@ print("",R)
 ```
 
 ## Output
-```
-<img width="1248" height="770" alt="image" src="https://github.com/user-attachments/assets/4047caf1-8d16-4650-8cd4-7eb57628b9b7" />
+<img width="1248" height="770" alt="image" src="https://github.com/user-attachments/assets/e3055dea-4b62-470a-87ac-29b924346244" />
 
-```
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
